@@ -26,5 +26,7 @@ int main() {
         cout << "Found at position " << pos << endl;
     else
         cout << "Not found\n";
+
+        
     return 0;
 }
