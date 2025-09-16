@@ -1,4 +1,3 @@
-// symmetric_matrix.cpp
 #include <iostream>
 using namespace std;
 

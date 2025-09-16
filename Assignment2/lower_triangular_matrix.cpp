@@ -1,4 +1,3 @@
-// lower_triangular_matrix.cpp
 #include <iostream>
 using namespace std;
 

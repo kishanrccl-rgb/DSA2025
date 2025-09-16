@@ -1,4 +1,3 @@
-// string_upper_to_lower.cpp
 #include <iostream>
 using namespace std;
 

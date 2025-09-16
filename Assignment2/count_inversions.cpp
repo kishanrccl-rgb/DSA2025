@@ -1,4 +1,3 @@
-// count_inversions.cpp
 #include <iostream>
 using namespace std;
 

@@ -1,4 +1,3 @@
-// reverse_string_stack.cpp
 #include <iostream>
 #include <cstring>
 using namespace std;

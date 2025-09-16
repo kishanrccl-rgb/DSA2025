@@ -1,4 +1,3 @@
-// string_delete_vowels.cpp
 #include <iostream>
 #include <cstring>
 using namespace std;

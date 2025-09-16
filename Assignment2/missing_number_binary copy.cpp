@@ -1,4 +1,3 @@
-// missing_number_binary.cpp
 #include <iostream>
 using namespace std;
 

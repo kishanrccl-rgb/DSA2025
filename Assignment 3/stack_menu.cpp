@@ -1,4 +1,3 @@
-// stack_menu.cpp
 #include <iostream>
 using namespace std;
 

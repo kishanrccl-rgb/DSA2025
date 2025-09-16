@@ -1,4 +1,3 @@
-// sparse_transpose.cpp
 #include <iostream>
 using namespace std;
 

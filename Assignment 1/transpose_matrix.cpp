@@ -7,8 +7,6 @@ int main() {
     for (int i = 0; i < 2; i++)
         for (int j = 0; j < 2; j++)
             cin >> a[i][j];
-
-    // Transpose
     for (int i = 0; i < 2; i++)
         for (int j = 0; j < 2; j++)
             t[j][i] = a[i][j];

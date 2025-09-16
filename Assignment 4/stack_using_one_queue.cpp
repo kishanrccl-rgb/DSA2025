@@ -1,4 +1,3 @@
-// stack_using_one_queue.cpp
 #include <iostream>
 #include <queue>
 using namespace std;

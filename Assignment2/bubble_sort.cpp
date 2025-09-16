@@ -1,4 +1,3 @@
-// binary_search.cpp
 #include <iostream>
 using namespace std;
 

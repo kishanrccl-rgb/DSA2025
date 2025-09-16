@@ -1,4 +1,3 @@
-// infix_to_postfix.cpp
 #include <iostream>
 #include <cstring>
 using namespace std;

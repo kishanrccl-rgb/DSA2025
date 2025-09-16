@@ -1,4 +1,3 @@
-// sparse_addition.cpp
 #include <iostream>
 using namespace std;
 

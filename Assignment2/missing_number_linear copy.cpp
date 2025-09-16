@@ -1,4 +1,3 @@
-// missing_number_linear.cpp
 #include <iostream>
 using namespace std;
 

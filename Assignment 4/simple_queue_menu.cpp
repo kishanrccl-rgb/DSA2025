@@ -1,4 +1,3 @@
-// simple_queue_menu.cpp
 #include <iostream>
 using namespace std;
 #define MAX 100

@@ -1,4 +1,3 @@
-// balanced_parentheses.cpp
 #include <iostream>
 #include <cstring>
 using namespace std;

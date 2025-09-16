@@ -1,4 +1,3 @@
-// string_concat.cpp
 #include <iostream>
 #include <cstring>
 using namespace std;
